@@ -7,15 +7,15 @@ During a pandemic, governemnt issued state-wide shutdowns could prevent overwhel
 
 To prevent unnecessary increases deaths, governments need to react promptly to indications of case numbers increasing sharply. Can we predict case rises in advance?
 
-When case numbers are looked at closely in each state, we see that cases start rising sharply 3-4 weeks prior they reach their peaks (Case numbers in Florida is plotted blow as an example. Vertical line marks 3 weeks before the peak). 
+When case numbers are looked at closely in each state, I noticed that cases start rising sharply 3-4 weeks prior they reach their peaks (Case numbers in Florida is plotted blow as an example. Vertical line marks 3 weeks before the peak). 
 
 ![Florida](/images/Florida.png)
 
-Therefore, perhaps case numbers and the slope of case rise can be used to predict the number of cases 3 weeks in the future. I applied 
+Therefore, perhaps case numbers and the slope of case rise can be used to predict the number of cases 3 weeks in the future. I applied k-nearest neighbor 
 
 
 
-k-nearest neighbor 
+
 
 
 
