@@ -1,6 +1,6 @@
 # Covid Case Prediction
 
-During a pandemic, governemnt issued state-wide shutdowns could prevent overwhelming the hosptial system but timing is key. Reacting after there are too many cases can be too late. In New York state, covid-19 cases peaked after the Governer Cuomo issued state-wide shutdown. Suggesting that many people already had contracted the virus by the time of the shutdown and started showing symptoms later. 
+During a pandemic, governemnt issued state-wide shutdowns could prevent overwhelming the hosptial system but timing is key. Reacting after there are too many cases can be too late. In New York state, Governer Cuomo issued state-wide shutdown on 03/20/2020, however, Covid-19 cases peaked about 3 weeks later. Suggesting that many people already had contracted the virus by the time of the shutdown and started showing symptoms later. 
 
 ![NY](/images/NY_labeled.png)
 
