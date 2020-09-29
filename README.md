@@ -1,2 +1,12 @@
-# covid_case_prediction
-Prediction of Covid-19 cases using machine learning
+# Covid Case Prediction
+
+
+
+
+
+
+
+
+
+
+full code: [covid_prediction](https://github.com/maayaikeda/covid_case_prediction/blob/master/Covid_case_predictions.ipynb)
