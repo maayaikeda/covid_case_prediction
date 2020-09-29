@@ -2,7 +2,7 @@
 
 In New York, covid-19 cases peaked after the Governer Cuomo issued state-wide shutdown. Suggesting that many people already had contracted the virus by the time of the shutdown and started showing symptoms later. 
 
-![NY](/images/NY.png)
+![NY](/images/NY_labeled.png)
 
 In many states, covid-19 cases start rising sharply 4-3 weeks prior they reach their peaks. Case numbers and the slope of case rise an indicaiton of 
 
