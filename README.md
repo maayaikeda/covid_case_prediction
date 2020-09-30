@@ -11,13 +11,19 @@ When case numbers are looked at closely in each state, I noticed that cases star
 
 ![Florida](/images/Florida.png)
 
-Perhaps case numbers and the slope of case rise can be used to predict the number of cases 3 weeks in the future. I applied k-nearest neighbor algorithm to predict case numbers. 
+Perhaps case numbers and the slope of case rise can be used to predict the number of cases 3 weeks in the future. 
+
+Current progress:
+I applied k-nearest neighbor algorithm to predict case numbers. I also used daily positive case numbers and test numbers from the Covid tracking project, and political party of the governning state as a parameter.
 
 The model was trained using data prior to 2020-07-25 (5 weeks before the last day of collected data), and tested on the last two 2 weeks of collected data (shaded region in lighter orange).
 
-
-
 ![prediction](/images/predictions.png)
+
+
+** This project is not complete. Working on using other models.
+
+
 
 
 full code: [covid_prediction](https://github.com/maayaikeda/covid_case_prediction/blob/master/Covid_case_predictions.ipynb)
