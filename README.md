@@ -24,6 +24,6 @@ The model was trained using data prior to 2020-07-25 (5 weeks before the last da
 ** This project is not complete. Working on using other models.
 
 
-
+Update 11/24/20: I have tried applying RNN and Random Forest models (neither perform better).
 
 full code: [covid_prediction](https://github.com/maayaikeda/covid_case_prediction/blob/master/Covid_case_predictions.ipynb)
